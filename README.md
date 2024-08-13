@@ -1,4 +1,7 @@
 # Music-and-MentalHealth
+![Image](https://github.com/Palesa-commits/Music-and-MentalHealth/blob/main/86EECBC3-8BA4-4687-94BF-6A3D547AEF8B.jpeg)
+
+
 A data analysis project that includes data cleaning in Excel, analysis in MySQL, and visualizations in Tableau.
 
 # Overview
